@@ -22,6 +22,7 @@
   
 ### :fire: My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Argen1sw
+https://github-readme-streak-stats.herokuapp.com/?user=your-Argen1sw
+
 
   
