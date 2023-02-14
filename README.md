@@ -1,4 +1,10 @@
-### 🛠️: Languages and Tools:
+### About me:
+- Robotics System Analyst with full-time work experience
+- Pursuing a Computer Science degree at the University of London (UoL)
+- On a journey to becoming a Robotics Software Engineer
+- Passionate about solving problems and using technology to find solutions.
+
+### 🛠️ Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
@@ -20,7 +26,7 @@
 </div>
 
   
-### :fire: My Stats :
+### :fire: Development Stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Argen1sw&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
