@@ -31,6 +31,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Argen1sw&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Argen1sw&show_icons=true&icon_color=333&title_color=333&text_color=777&count_private=true&include_all_commits=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Argen1sw&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
   
