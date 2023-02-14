@@ -23,6 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="bitbucket" alt="bitbucket" width="40" height="40"/>&nbsp;  
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
+    <img src="https://static.wikia.nocookie.net/habitrpg/images/4/47/Promo_habitica_sticker.png/revision/latest?cb=20151117012910" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
 </div>
 
   
