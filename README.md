@@ -1,4 +1,5 @@
-### :adult: About me: :mechanical_arm:
+### Hi, this is me
+
 - Robotics System Analyst
 - Pursuing a Computer Science degree at the University of London (UoL)
 - Passionate about solving problems and using technology to find solutions.
